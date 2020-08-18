@@ -5,3 +5,7 @@ then many haikus
 refrigerator
 refrigerator is go
 refrigerator
+
+my freezer is cold
+colder refrigerator
+freezer is too cold
